@@ -1,0 +1,12 @@
+.
+├── Hasil_nomor1.txt
+└── Muhammad_afatyo_Ikhsan
+    ├── CB150
+    │   └── Honda
+    └── Jurusan_TI
+        └── Kelas_malam
+            ├── Kalkulus
+            └── Sistem_operasi
+                └── Sistem_operasi1.txt
+
+7 directories, 3 files
